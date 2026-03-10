@@ -12,9 +12,7 @@
 
 # 📱 Overview
 
-**BetWise** is a **gambling-themed session tracker app** built for educational purposes.
-
-Instead of building a traditional budgeting app, BetWise allows users to track **virtual casino sessions using fake chips**.
+**BetWise** is a **gambling-themed session tracker app** built for educational purposes. The app allows users to track **virtual casino sessions using fake chips**.
 
 This makes the project more engaging while still covering all required app development concepts such as:
 
@@ -131,7 +129,6 @@ Examples:
 * fake receipts
 * leaderboard images
 
-This teaches You how to handle image selection and storage.
 
 ---
 
@@ -163,7 +160,7 @@ The list view allows users to:
 
 The app calculates how many chips were used per category during a selected period.
 
-This helps You practise:
+This helps you practise:
 
 * Room queries
 * grouping records
@@ -281,28 +278,6 @@ This structure keeps the code clean and maintainable.
 
 ---
 
-# 🖼 Screenshots
-
-### Dashboard
-
-![Dashboard Screenshot](screenshots/dashboard.png)
-
-### Add Session
-
-![Add Session Screenshot](screenshots/add_session.png)
-
-### Reports
-
-![Reports Screenshot](screenshots/reports.png)
-
-### Graphs
-
-![Graphs Screenshot](screenshots/graphs.png)
-
-*(Replace these with real screenshots of your app.)*
-
----
-
 # ⭐ Custom Features
 
 The app also includes additional features beyond the minimum requirements.
@@ -329,25 +304,6 @@ Users earn rewards for consistent activity such as:
 
 ---
 
-# ⚙️ Installation
-
-1. Clone the repository
-
-```
-git clone https://github.com/yourusername/betwise
-```
-
-2. Open the project in **Android Studio**
-
-3. Sync Gradle dependencies
-
-4. Run the application on:
-
-* Android emulator
-* Android device
-
----
-
 # 🧪 Testing
 
 Unit tests are included to test the core logic of the application.
@@ -359,26 +315,6 @@ Tests cover:
 * data validation
 
 Automated builds and tests are executed using **GitHub Actions**.
-
----
-
-# 📹 Demonstration Video
-
-A full demonstration video of the application can be viewed here:
-
-```
-(Add YouTube link here)
-```
-
-The video demonstrates:
-
-* login and registration
-* adding categories
-* logging sessions
-* attaching photos
-* viewing reports
-* graphs and dashboards
-* gamification features
 
 ---
 
