@@ -1,6 +1,6 @@
 # 🏋️‍♂️ SportSync
 
-### A Jetpack Compose Sports Training & Fitness Tracker (PROG7313 Learning App)
+### A Jetpack Compose Sports Training & Fitness Tracker
 
 ![Android](https://img.shields.io/badge/Android-Jetpack%20Compose-green)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)
