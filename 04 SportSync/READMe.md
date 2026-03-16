@@ -121,8 +121,8 @@ Athletes can **switch between sport training and gym workouts** whenever needed.
 
 Users can:
 
-* register with a username and password
-* log in securely
+* register with a full name, username, contact detail and password
+* log in securely with username and password
 * log out of the application
 
 This demonstrates user authentication and screen navigation.
