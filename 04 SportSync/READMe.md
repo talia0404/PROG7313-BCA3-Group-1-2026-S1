@@ -117,7 +117,7 @@ Athletes can **switch between sport training and gym workouts** whenever needed.
 
 # 🚀 Main Features
 
-## 🔐 User Authentication
+## 01 🔐 User Authentication
 
 Users can:
 
@@ -129,7 +129,7 @@ This demonstrates user authentication and screen navigation.
 
 ---
 
-## 🏋️ Workout Tracking
+## 02 🏋️ Workout Tracking
 
 Users can log workouts including:
 
@@ -145,7 +145,7 @@ This allows users to build a **training history** over time.
 
 ---
 
-## 🧠 Training Recommendations
+## 03 🧠 Training Recommendations
 
 The app recommends exercises based on:
 
@@ -164,7 +164,7 @@ This feature simulates **basic recommendation logic** in the application.
 
 ---
 
-## 🍎 Food & Nutrition Tracker
+## 04 🍎 Food & Nutrition Tracker
 
 Users can track meals and calorie intake.
 
@@ -187,7 +187,7 @@ Example:
 
 ---
 
-## 🧾 Ingredient-Based Meal Suggestions
+## 05 🧾 Ingredient-Based Meal Suggestions
 
 Users can enter ingredients they have available.
 
@@ -208,7 +208,7 @@ This feature demonstrates **basic filtering and recommendation logic**.
 
 ---
 
-## 🗺 Nearby Gyms
+## 06 🗺 Nearby Gyms
 
 The app can show **gyms near the user's location**.
 
@@ -222,7 +222,7 @@ This introduces **location-based features**.
 
 ---
 
-## 📅 Workout History
+## 07 📅 Workout History
 
 Users can view workouts logged during a **selected date range**.
 
@@ -234,7 +234,7 @@ The list view allows users to:
 
 ---
 
-## 📊 Performance Reports
+## 08 📊 Performance Reports
 
 The app can generate reports such as:
 
@@ -251,7 +251,7 @@ This helps practise:
 
 ---
 
-## 📈 Graphs and Analytics
+## 09 📈 Graphs and Analytics
 
 Graphs can display information such as:
 
@@ -265,7 +265,7 @@ This allows users to **visualise their progress**.
 
 ---
 
-## 📊 Progress Dashboard
+## 10 📊 Progress Dashboard
 
 The dashboard displays:
 
@@ -278,7 +278,7 @@ This gives users a **quick overview of their performance**.
 
 ---
 
-## 🏆 Gamification
+## 11 🏆 Gamification
 
 To make the app more engaging, SportSync includes a reward system.
 
