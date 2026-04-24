@@ -1,4 +1,4 @@
-# 🔐 Firebase Auth and Realtime Database
+# 🔥 Firebase Auth and Realtime Database
 
 ## 🔐 Part 1: Firebase Authentication
 
