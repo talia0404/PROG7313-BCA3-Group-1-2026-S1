@@ -31,7 +31,7 @@ Real-world examples:
 For your case, you can use it like **Azure Blob Storage / Firebase Storage**, meaning:
 
 ```text
-Android app → uploads image/PDF → Supabase Storage bucket → stores file URL/path in database
+Android app -> uploads image/PDF -> Supabase Storage bucket -> stores file URL/path in database
 ```
 
 ## How Supabase Storage works 🪣
@@ -60,9 +60,9 @@ You can make buckets:
 For demo apps, I’d usually use:
 
 ```text
-receipts → private bucket
-profile-images → public or private
-product-images → public
+receipts -> private bucket
+profile-images -> public or private
+product-images -> public
 ```
 
 ## How to use it with Android Studio 📱
